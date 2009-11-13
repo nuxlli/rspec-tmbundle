@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>describe ${1:Type}, "${2:description}" do
   $0
-end</string>
+end  # describe ${1:Type} "${2:description}"</string>
 	<key>name</key>
 	<string>describe (type, string)</string>
 	<key>scope</key>

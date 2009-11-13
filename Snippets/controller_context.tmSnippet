@@ -8,6 +8,7 @@
 describe ${1:controller} do
   $0
 end</string>
+end # describe ${1:controller}</string>
 	<key>name</key>
 	<string>describe (Controller)</string>
 	<key>scope</key>
